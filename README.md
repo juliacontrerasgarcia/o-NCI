@@ -1,3 +1,6 @@
+***version developped by Maxime Ferrer maxime.ferrer2802@gmail.com ***
+
+
 NCIPLOT is a program for revealing non covalent interactions based on the reduced density gradient. Please cite:
   * NCIPLOT-4.0: DOI: https://pubs.acs.org/doi/10.1021/acs.jctc.0c00063
   
